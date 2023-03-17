@@ -1,12 +1,16 @@
 ## Team name
-Fill team name here
+SYSTEM SLAYERS
 ## Team members
-Fill team members name here
+KAUSTUBH PANDEY
+VAIBHAV SINGH
+PRACHI GAUR
+ANUJ KUMAR TIWARI
 
 ## Idea
-Fill idea here
+EDSCAPE-The edtube
 
 ## Repository link
+https://kaustubh-2003.github.io/EduScaape/
 
 
 ## Any other relevant link
